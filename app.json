@@ -1,9 +1,9 @@
 {
-  "name": "HEROKU RCLONE SERVE INDEX",
+  "name": "hrkindex",
   "description": "A rclone serve index using Docker",
-  "repository": "https://github.com/developeranaz/RCLONE-SERVE-INDEX",
+  "repository": "https://github.com/phyIlo/rcl",
   "logo": "https://avatars.githubusercontent.com/u/71500526?s",
-  "keywords": ["nginx", "fileindex", "mega", "onedrive", "remote-index", "anyremote", "anycloud", "cloud-downloader", "rclone-backdoor", "index-backdoor", "rclone", "index"],  
+  "keywords": ["rclone", "index"],  
     
     "env": {
      "CONFIG_IN_URL": {
